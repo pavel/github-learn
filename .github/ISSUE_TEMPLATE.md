@@ -1,6 +1,6 @@
-Before filing an issue, please, see https://github.com/pavel/github-learn/blob/master/TROUBLESHOOTING.md
+###### Before filing an issue, please, see https://github.com/pavel/github-learn/blob/master/TROUBLESHOOTING.md
 
-Describe you issue
+Describe your issue
 
 Please provide:
 
