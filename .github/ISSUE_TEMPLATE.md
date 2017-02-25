@@ -1,8 +1,8 @@
 ###### Before filing an issue, please, see https://github.com/pavel/github-learn/blob/master/TROUBLESHOOTING.md
 
-Issue description:
+## Issue description
 
-Please provide:
+## Software details
 
 * OS:
 * Browser:
